@@ -1,0 +1,93 @@
+Start 312 fold Training
+
+Epoch [1/50], Loss: 1.9596, Accuracy: 42.15%
+Validation Loss: 1.9450, Accuracy: 51.48%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [2/50], Loss: 1.8808, Accuracy: 57.21%
+Validation Loss: 1.9171, Accuracy: 54.14%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [3/50], Loss: 1.8311, Accuracy: 61.31%
+Validation Loss: 1.8963, Accuracy: 56.04%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [4/50], Loss: 1.8077, Accuracy: 63.88%
+Validation Loss: 1.8812, Accuracy: 57.67%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [5/50], Loss: 1.7886, Accuracy: 65.75%
+Validation Loss: 1.8735, Accuracy: 58.46%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [6/50], Loss: 1.7782, Accuracy: 67.18%
+Validation Loss: 1.8732, Accuracy: 58.51%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [7/50], Loss: 1.7551, Accuracy: 68.41%
+Validation Loss: 1.8711, Accuracy: 58.69%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [8/50], Loss: 1.7661, Accuracy: 69.37%
+Validation Loss: 1.8695, Accuracy: 58.84%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [9/50], Loss: 1.7623, Accuracy: 70.23%
+Validation Loss: 1.8719, Accuracy: 58.59%
+Epoch [10/50], Loss: 1.7514, Accuracy: 70.91%
+Validation Loss: 1.8679, Accuracy: 59.02%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [11/50], Loss: 1.7431, Accuracy: 71.48%
+Validation Loss: 1.8688, Accuracy: 58.95%
+Epoch [12/50], Loss: 1.7194, Accuracy: 72.03%
+Validation Loss: 1.8714, Accuracy: 58.69%
+Epoch [13/50], Loss: 1.7270, Accuracy: 72.54%
+Validation Loss: 1.8691, Accuracy: 58.92%
+Epoch [14/50], Loss: 1.7200, Accuracy: 72.84%
+Validation Loss: 1.8683, Accuracy: 59.00%
+Epoch [15/50], Loss: 1.7324, Accuracy: 73.21%
+Validation Loss: 1.8692, Accuracy: 58.91%
+Epoch [16/50], Loss: 1.7109, Accuracy: 73.64%
+Validation Loss: 1.8674, Accuracy: 59.14%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [17/50], Loss: 1.7348, Accuracy: 73.88%
+Validation Loss: 1.8652, Accuracy: 59.36%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [18/50], Loss: 1.7392, Accuracy: 74.05%
+Validation Loss: 1.8662, Accuracy: 59.21%
+Epoch [19/50], Loss: 1.7140, Accuracy: 74.44%
+Validation Loss: 1.8651, Accuracy: 59.33%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [20/50], Loss: 1.7078, Accuracy: 74.73%
+Validation Loss: 1.8697, Accuracy: 58.89%
+Epoch [21/50], Loss: 1.7155, Accuracy: 74.89%
+Validation Loss: 1.8663, Accuracy: 59.21%
+Epoch [22/50], Loss: 1.7068, Accuracy: 75.16%
+Validation Loss: 1.8655, Accuracy: 59.32%
+Epoch [23/50], Loss: 1.7216, Accuracy: 75.35%
+Validation Loss: 1.8703, Accuracy: 58.83%
+Epoch [24/50], Loss: 1.7052, Accuracy: 75.41%
+Validation Loss: 1.8626, Accuracy: 59.61%
+Saved model with best validation loss to AST_train_Last/best312_model_AST.pth
+Epoch [25/50], Loss: 1.7066, Accuracy: 75.69%
+Validation Loss: 1.8675, Accuracy: 59.12%
+Epoch [26/50], Loss: 1.7185, Accuracy: 75.71%
+Validation Loss: 1.8666, Accuracy: 59.25%
+Epoch [27/50], Loss: 1.6977, Accuracy: 76.04%
+Validation Loss: 1.8672, Accuracy: 59.12%
+Epoch [28/50], Loss: 1.7011, Accuracy: 76.11%
+Validation Loss: 1.8655, Accuracy: 59.33%
+Epoch [29/50], Loss: 1.6883, Accuracy: 76.35%
+Validation Loss: 1.8659, Accuracy: 59.29%
+Epoch [30/50], Loss: 1.6911, Accuracy: 76.37%
+Validation Loss: 1.8680, Accuracy: 59.10%
+Epoch [31/50], Loss: 1.6867, Accuracy: 76.54%
+Validation Loss: 1.8657, Accuracy: 59.30%
+Early stopping at epoch 31 as validation loss has not improved for 7 consecutive validations.
+END OF TRAINING
+312 Train Loss: 1.7040
+312 Training Accuracy : 0.7573341140509319
+312 Validation Loss: 1.9007
+312 Validation Accuracy : 0.558092217541852
+312 Test Loss: 1.9090
+312 Test Accuracy: 0.5497771247359385
+312 Average Test Accuracy : 65.76576576576578 %
+Recap
+123 Test Loss: 1.9238 / 123 Test Accuracy: 0.5353382227427006
+123 Average Test Accuracy : 61.14457831325302 %
+231 Test Loss: 1.8952 / 231 Test Accuracy: 0.5636560486933875
+231 Average Test Accuracy : 64.97005988023952 %
+312 Test Loss: 1.9090 / 312 Test Accuracy: 0.5497771247359385
+312 Average Test Accuracy : 65.76576576576578 %

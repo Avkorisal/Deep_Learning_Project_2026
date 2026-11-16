@@ -1,0 +1,133 @@
+Start 231 fold Training
+
+Epoch [1/50], Loss: 1.9427, Accuracy: 42.43%
+Validation Loss: 1.9615, Accuracy: 49.48%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [2/50], Loss: 1.8599, Accuracy: 58.16%
+Validation Loss: 1.9326, Accuracy: 52.50%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [3/50], Loss: 1.8203, Accuracy: 62.87%
+Validation Loss: 1.9212, Accuracy: 53.58%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [4/50], Loss: 1.8229, Accuracy: 65.30%
+Validation Loss: 1.9153, Accuracy: 54.23%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [5/50], Loss: 1.7861, Accuracy: 66.79%
+Validation Loss: 1.9062, Accuracy: 55.11%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [6/50], Loss: 1.7858, Accuracy: 68.07%
+Validation Loss: 1.9036, Accuracy: 55.42%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [7/50], Loss: 1.7788, Accuracy: 69.13%
+Validation Loss: 1.8989, Accuracy: 55.88%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [8/50], Loss: 1.7710, Accuracy: 69.90%
+Validation Loss: 1.8981, Accuracy: 55.97%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [9/50], Loss: 1.7616, Accuracy: 70.70%
+Validation Loss: 1.8976, Accuracy: 56.01%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [10/50], Loss: 1.7495, Accuracy: 71.32%
+Validation Loss: 1.8947, Accuracy: 56.27%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [11/50], Loss: 1.7360, Accuracy: 71.72%
+Validation Loss: 1.8947, Accuracy: 56.34%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [12/50], Loss: 1.7567, Accuracy: 72.20%
+Validation Loss: 1.8946, Accuracy: 56.35%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [13/50], Loss: 1.7288, Accuracy: 72.65%
+Validation Loss: 1.8943, Accuracy: 56.37%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [14/50], Loss: 1.7348, Accuracy: 73.02%
+Validation Loss: 1.8899, Accuracy: 56.80%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [15/50], Loss: 1.7032, Accuracy: 73.25%
+Validation Loss: 1.8886, Accuracy: 56.96%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [16/50], Loss: 1.7305, Accuracy: 73.59%
+Validation Loss: 1.8908, Accuracy: 56.76%
+Epoch [17/50], Loss: 1.7265, Accuracy: 73.88%
+Validation Loss: 1.8897, Accuracy: 56.85%
+Epoch [18/50], Loss: 1.7111, Accuracy: 74.17%
+Validation Loss: 1.8900, Accuracy: 56.82%
+Epoch [19/50], Loss: 1.7209, Accuracy: 74.43%
+Validation Loss: 1.8868, Accuracy: 57.17%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [20/50], Loss: 1.6981, Accuracy: 74.61%
+Validation Loss: 1.8869, Accuracy: 57.13%
+Epoch [21/50], Loss: 1.7371, Accuracy: 74.76%
+Validation Loss: 1.8886, Accuracy: 57.00%
+Epoch [22/50], Loss: 1.7350, Accuracy: 75.12%
+Validation Loss: 1.8927, Accuracy: 56.57%
+Epoch [23/50], Loss: 1.7063, Accuracy: 75.20%
+Validation Loss: 1.8908, Accuracy: 56.77%
+Epoch [24/50], Loss: 1.7021, Accuracy: 75.42%
+Validation Loss: 1.8853, Accuracy: 57.32%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [25/50], Loss: 1.7205, Accuracy: 75.75%
+Validation Loss: 1.8869, Accuracy: 57.16%
+Epoch [26/50], Loss: 1.6907, Accuracy: 75.63%
+Validation Loss: 1.8843, Accuracy: 57.44%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [27/50], Loss: 1.7063, Accuracy: 75.88%
+Validation Loss: 1.8898, Accuracy: 56.88%
+Epoch [28/50], Loss: 1.7115, Accuracy: 76.06%
+Validation Loss: 1.8866, Accuracy: 57.20%
+Epoch [29/50], Loss: 1.6914, Accuracy: 76.15%
+Validation Loss: 1.8831, Accuracy: 57.55%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [30/50], Loss: 1.6984, Accuracy: 76.33%
+Validation Loss: 1.8831, Accuracy: 57.56%
+Epoch [31/50], Loss: 1.6923, Accuracy: 76.38%
+Validation Loss: 1.8864, Accuracy: 57.23%
+Epoch [32/50], Loss: 1.7003, Accuracy: 76.50%
+Validation Loss: 1.8854, Accuracy: 57.34%
+Epoch [33/50], Loss: 1.7149, Accuracy: 76.62%
+Validation Loss: 1.8810, Accuracy: 57.78%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [34/50], Loss: 1.7062, Accuracy: 76.76%
+Validation Loss: 1.8850, Accuracy: 57.38%
+Epoch [35/50], Loss: 1.7104, Accuracy: 76.75%
+Validation Loss: 1.8829, Accuracy: 57.59%
+Epoch [36/50], Loss: 1.6919, Accuracy: 76.91%
+Validation Loss: 1.8813, Accuracy: 57.75%
+Epoch [37/50], Loss: 1.6876, Accuracy: 76.99%
+Validation Loss: 1.8840, Accuracy: 57.48%
+Epoch [38/50], Loss: 1.6946, Accuracy: 77.06%
+Validation Loss: 1.8838, Accuracy: 57.50%
+Epoch [39/50], Loss: 1.6930, Accuracy: 77.21%
+Validation Loss: 1.8811, Accuracy: 57.79%
+Epoch [40/50], Loss: 1.6850, Accuracy: 77.46%
+Validation Loss: 1.8793, Accuracy: 57.97%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [41/50], Loss: 1.7105, Accuracy: 77.41%
+Validation Loss: 1.8808, Accuracy: 57.80%
+Epoch [42/50], Loss: 1.7010, Accuracy: 77.47%
+Validation Loss: 1.8827, Accuracy: 57.62%
+Epoch [43/50], Loss: 1.6790, Accuracy: 77.56%
+Validation Loss: 1.8836, Accuracy: 57.51%
+Epoch [44/50], Loss: 1.6792, Accuracy: 77.58%
+Validation Loss: 1.8794, Accuracy: 57.97%
+Epoch [45/50], Loss: 1.6822, Accuracy: 77.76%
+Validation Loss: 1.8817, Accuracy: 57.75%
+Epoch [46/50], Loss: 1.6851, Accuracy: 77.75%
+Validation Loss: 1.8793, Accuracy: 57.97%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [47/50], Loss: 1.6732, Accuracy: 77.81%
+Validation Loss: 1.8776, Accuracy: 58.15%
+Saved model with best validation loss to AST_train_Last/best231_model_AST.pth
+Epoch [48/50], Loss: 1.6541, Accuracy: 77.98%
+Validation Loss: 1.8824, Accuracy: 57.67%
+Epoch [49/50], Loss: 1.7078, Accuracy: 77.99%
+Validation Loss: 1.8816, Accuracy: 57.74%
+Epoch [50/50], Loss: 1.6624, Accuracy: 78.12%
+Validation Loss: 1.8835, Accuracy: 57.55%
+END OF TRAINING
+231 Train Loss: 1.6785
+231 Training Accuracy : 0.7826261187051962
+231 Validation Loss: 1.9075
+231 Validation Accuracy : 0.5516563783966177
+231 Test Loss: 1.8952
+231 Test Accuracy: 0.5636560486933875
+231 Average Test Accuracy : 64.97005988023952 %
